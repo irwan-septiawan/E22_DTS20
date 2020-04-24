@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>E22_DTS20</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+<!-- header section start -->
+	<div class="header">
+    <img src="https://corona.jakarta.go.id/img/logo/logo-dki.png" alt="" class="src" style="width: 50px;">
+	<div class="menu">
+		<ul>
+			<li><a href="#">Home</a></li>
+			<li class="dropdown"><a href="#">Data<span class="lambang-panah"></span></a>
+				<ul class="isi-dropdown">
+					<li><a href="#">Pemantauan COVID-19</a></li>
+					<li><a href="#">Bantuan Sosial</a></li>
+				</ul>
+			</li>
+			<li class="dropdown"><a href="#">Peta<span class="lambang-panah"></a>
+				<ul class="isi-dropdown">
+					<li><a href="#">Peta Kasus</a></li>
+					<li><a href="#">Peta Kronologi</a></li>
+					<li><a href="#">Sub Pesebaran</a></li>
+					<li><a href="#">Sub Kolaborasi Sosial</a></li>
+				</ul>
+			</li>
+			<li><a href="#">Publikasi</a></li>
+			<li><a href="#">FAQ</a></li>
+			<li><a href="#">Kontak</a></li>
+		</ul>
+	</div>
+	</div>
+<!-- header section end -->
+
+<!-- bagian utama section start -->
+
+<!-- bagian utama section end -->
+
+<!-- exstra 1 start -->
+
+<!-- exstra 1 end -->
+
+<!-- exstra 2 start -->
+<!-- exstra 2 end -->
+
+<!-- footer start -->
+
+<!-- footer 1 end -->
+
+		</div>
+	</body>
+  </html>
