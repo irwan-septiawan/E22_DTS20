@@ -1,0 +1,89 @@
+/* Untuk Tablet */
+@media all and (max-width: 1000px) {
+  .top-wrapper h1 {
+    font-size: 32px;
+  }
+  .heading h2{
+    font-size:20px;
+  }
+  .items{
+    width:50%;
+    padding-bottom:50px;
+  }
+  .menu-icon{
+    display: none;
+  }
+}
+
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+  .header-right {
+    display: none;
+  }
+  
+  .menu-icon {
+    display: block;
+  }
+  .items{
+    width:100%;
+  }
+  p{
+    text-align: center;
+  }
+  
+  .btn {
+    width: 100%;
+  }
+
+  .facebook {
+    margin-bottom: 10px;
+  }
+  
+  .instagram {
+    margin-bottom: 10px
+  }
+
+  .top-wrapper {
+    text-align: left;
+  }
+  
+  .top-wrapper h1 {
+    font-size: 24px;
+    line-height: 36px;
+  }
+  
+  .top-wrapper p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .heading h2, h3{
+    font-size: 18px;
+  }
+
+  .korban-number span{
+    font-size: 25px;
+  }
+
+  .korban-number center{
+    font-size: 17px;
+  }
+
+  .info h5{
+    text-align: center;
+    padding-top: 30px;
+  }
+
+  footer{
+    text-align:left;
+  }
+
+  .footer-list li{
+    font-size:15px;
+    padding-left: 10px;
+  }
+
+  .footer-sosmed li{
+    padding:20px 10px;
+  }
